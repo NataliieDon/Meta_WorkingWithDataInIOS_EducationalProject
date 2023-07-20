@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0BE2D413-39A9-4E3A-93E7-95A93B3219AC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E51EDD2A-4804-42C9-93E1-7F57FAF364AA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dish+CoreDataProperties.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "fromCustomer(firstName:lastName:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7482333B-9ED3-4679-9030-2A0D23D6E128"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dish+CoreDataProperties.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "fromCustomer(firstName:lastName:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7482333B-9ED3-4679-9030-2A0D23D6E128 - 95cf20a94128700b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static M4Exercise.Dish.fromCustomer(firstName: Swift.String, lastName: Swift.String, _: __C.NSManagedObjectContext) -&gt; Swift.Optional&lt;Swift.Array&lt;M4Exercise.Dish&gt;&gt;"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mars/Desktop/CONTEUDO/CURSO%207%20-%20Data/XCODE/M4Exercise/Dish+CoreDataProperties.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "7482333B-9ED3-4679-9030-2A0D23D6E128 - 95cf20a94128700b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static M4Exercise.Dish.fromCustomer(firstName: Swift.String, lastName: Swift.String, _: __C.NSManagedObjectContext) -&gt; Swift.Optional&lt;Swift.Array&lt;M4Exercise.Dish&gt;&gt;"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mars/Desktop/CONTEUDO/CURSO%207%20-%20Data/XCODE/M4Exercise/Dish+CoreDataProperties.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "704">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "388D6E73-7BA0-4661-BDC5-5B84D9032D55"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dish+CoreDataProperties.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "fromCustomer(firstName:lastName:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "388D6E73-7BA0-4661-BDC5-5B84D9032D55 - 95cf20a94128700b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static M4Exercise.Dish.fromCustomer(firstName: Swift.String, lastName: Swift.String, _: __C.NSManagedObjectContext) -&gt; Swift.Optional&lt;Swift.Array&lt;M4Exercise.Dish&gt;&gt;"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mars/Desktop/CONTEUDO/CURSO%207%20-%20Data/XCODE/M4Exercise/Dish+CoreDataProperties.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "388D6E73-7BA0-4661-BDC5-5B84D9032D55 - 95cf20a94128700b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static M4Exercise.Dish.fromCustomer(firstName: Swift.String, lastName: Swift.String, _: __C.NSManagedObjectContext) -&gt; Swift.Optional&lt;Swift.Array&lt;M4Exercise.Dish&gt;&gt;"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mars/Desktop/CONTEUDO/CURSO%207%20-%20Data/XCODE/M4Exercise/Dish+CoreDataProperties.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "704">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0BEDC74-B73A-4677-893F-1B4CC461BF99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "M4Exercise/MainView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C735315D-AC0E-4BEA-9D96-32D65C2A84F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CORE DATA/Dish+CoreDataProperties.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "save(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94809103-5681-4702-9A58-3E5FE6522E9B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CORE DATA/Dish+CoreDataProperties.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "exists(name:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
